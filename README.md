@@ -6,7 +6,7 @@
 * 🎧 音游相关：MaiMai 🌈15600,Chunithum 15.8,Arcrea ✨12.34
 * 💻 工作方向: 目前从事大数据相关工作
 * 🎱 业余爱好: 最近入坑🚢`Azur Lane`,从不看番的二次元宅，家里有两只猫🐈
-
+# 🌍 Blog - [Aimerny](http://aimerny.top)
 # 🔧 Tech Stack
 ![Hadoop](https://img.shields.io/badge/Hadoop-F05032?style=flat-square&logo=apachehadoop&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
