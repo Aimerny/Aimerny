@@ -35,10 +35,10 @@
 <p align="center">
 
   <a href="https://github.com/aimerny" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=aimerny&theme=dark&show_icons=true" width="45%" alt="Savuer's github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aimerny&theme=dark&show_icons=true" width="45%" alt="Aimerny's github stats"/>
   </a>
   <a href="https://github.com/aimerny" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimerny&layout=compact&hide=html,css,javascript&theme=dark" width="40%" alt="savuer's github top skills"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimerny&layout=compact&hide=html,css,javascript&theme=dark" width="40%" alt="Aimerny's github top skills"/>
   </a>
   <a href="https://github.com/aimerny" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimerny&theme=highcontrast" width="45%" alt="savuer's github readme streak stats"/>
