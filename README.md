@@ -7,7 +7,7 @@
 <h1 align="center"><a href="http://aimerny.top"> ⛹️‍♂️ WhoAmI </a></h1>
 
 > **一名~~喜欢音游和MC的~~程序员**
-* 🎧 音游相关：**MaiMai** 🌈15600, **Chunithum** 15.8, **Arcrea** ⭐ 12.34
+* 🎧 音游相关：**MaiMai** 🌈15647, **Chunithum** 15.8, **Arcrea** ⭐ 12.44
 * 💻 工作方向: 目前从事大数据相关工作
 * 🎱 更多标签: 最近入坑`🚢 Azur Lane`但从不看番的二次元宅，家里有两只🐈的兢兢业业的铲屎官，三速未sub10的已退坑魔方玩家
 
