@@ -7,9 +7,9 @@
 <h1 align="center"><a href="http://aimerny.top"> ⛹️‍♂️ WhoAmI </a></h1>
 
 > **一名~~喜欢音游和MC的~~程序员**
-* 🎧 音游相关：**MaiMai** 🌈15647, **Chunithum** 15.77, **Arcrea** 🌟 12.51
+* 🎧 音游相关：**MaiMai** 🌈15654, **Chunithum** 15.77, **Arcrea** 🌟 12.51
 * 💻 工作方向: 目前从事大数据相关工作
-* 🎱 更多标签: 最近入坑`🚢 Azur Lane`但从不看番的二次元宅，家里有两只🐈的兢兢业业的铲屎官，三速未sub10的已退坑魔方玩家
+* 🎱 更多标签: 最近入坑`🚢 Azur Lane`但从不看番的二次元宅，家里有两只🐈的兢兢业业的铲屎官，三速未sub10的复健中魔方玩家
 
 ### 🔧 Tech Stack
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
