@@ -9,7 +9,7 @@
 <h1 align="center"><a href="http://aimerny.top"> ⛹️‍♂️ WhoAmI </a></h1>
 
 > **一名~~喜欢音游和MC和魔方的~~程序员**
-* 🎧 音游相关：**MaiMai** 🌈15682, **Chunithum** 15.76, **Arcrea** 🌟⭐️ 12.50, **Phigros** Rks 15.07
+* 🎧 音游相关：**MaiMai** 🌈15682, **Chunithum** 15.76, **Arcrea** 🌟⭐️ 12.50, **Phigros** Rks 15.26
 * 💻 工作方向: 目前从事大数据相关工作
 * 🎱 更多标签: 偶尔玩`🚢 Azur Lane`的二次元宅，家里有两只🐈的兢兢业业的铲屎官，三速未sub10的复健中魔方玩家，最近在看key社作品，最喜欢的角色是小狐狸
 
