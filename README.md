@@ -9,9 +9,9 @@
 <h1 align="center"><a href="http://aimerny.top"> ⛹️‍♂️ WhoAmI </a></h1>
 
 > **一名~~喜欢音游和MC和魔方的~~程序员**
-* 🎧 音游相关：**舞萌DX** 🌈15950, **中二节奏** 🐧15.60, **Arcaea** 🌟🌟12.54, **Phigros** 🕊14.80
+* 🎧 音游相关：**舞萌DX2025** 🌈16113, **中二节奏** 🐧16.02, **Arcaea** 🌟🌟12.54, **Phigros** 🕊15.01
 * 💻 工作方向: 目前从事大数据相关工作
-* 🎱 更多标签: 偶尔玩`🚢 Azur Lane`的二次元宅，家里有两只🐈的兢兢业业的铲屎官，三速未sub10的复健中魔方玩家，最近在看key社作品，最喜欢的角色是小狐狸
+* 🎱 更多标签: 偶尔玩`🚢 Azur Lane`的二次元宅，家里有两只🐈的兢兢业业的铲屎官
 
 ### 🔧 Tech Stack
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
